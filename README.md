@@ -8,15 +8,11 @@
 </div>
 
 
-## 👀Introduction
+## Introduction
 
-This repository contains the code for our paper `Sigma: Siamese Mamba Network for Multi-Modal Semantic Segmentation`. [[Paper](https://arxiv.org/abs/2404.04256)]
+This repository contains the code for our paper `CFDHI-Net: Correlation-driven Feature Decoupling and Hierarchical Integration Network for RGB-Thermal Semantic Segmentation`
 
 ![](figs/sigma.png)
-
-`Sigma`, as a lightweight and efficient method, reaches a balance between accuracy and speed. (Results below are calculated on [MFNet](https://github.com/haqishen/MFNet-pytorch) dataset)
-
-![](figs/overall_flops.png)
 
 ## 💡Environment
 

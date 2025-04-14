@@ -3,11 +3,6 @@
 <h1> CFDHI-Net: Correlation-driven Feature Decoupling and Hierarchical Integration Network for RGB-Thermal Semantic Segmentation </h1>
 
 
-<sup>1</sup>  Robotics Institute, Carnegie Mellon University, USA  
-<sup>2</sup>  School of Future Technology, Dalian University of Technology, China
-
-[![arXiv](https://img.shields.io/badge/arXiv-2404.04256-b31b1b.svg)](https://arxiv.org/abs/2404.04256) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![X](https://img.shields.io/twitter/url/https/twitter.com/bukotsunikki.svg)](https://x.com/_akhaliq/status/1777272323504025769)
 
 
 </div>

@@ -1,8 +1,7 @@
 
 <div align="center">
-<h1> Sigma: Siamese Mamba Network for Multi-Modal Semantic Segmentation </h1>
+<h1> CFDHI-Net: Correlation-driven Feature Decoupling and Hierarchical Integration Network for RGB-Thermal Semantic Segmentation </h1>
 
-[Zifu Wan](https://zifuwan.github.io/)<sup>1</sup>, [Yuhao Wang](https://924973292.github.io//)<sup>2</sup>, [Silong Yong](https://silongyong.github.io/)<sup>1</sup>, [Pingping Zhang](https://scholar.google.com/citations?user=MfbIbuEAAAAJ&hl=zh-CN)<sup>2</sup>, [Simon Stepputtis](https://simonstepputtis.com/)<sup>1</sup>, [Katia Sycara](https://scholar.google.com/citations?user=VWv6a9kAAAAJ&hl=en)<sup>1</sup>, [Yaqi Xie](https://yaqi-xie.me/)<sup>1</sup></sup>
 
 <sup>1</sup>  Robotics Institute, Carnegie Mellon University, USA  
 <sup>2</sup>  School of Future Technology, Dalian University of Technology, China

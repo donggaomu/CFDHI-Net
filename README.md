@@ -83,10 +83,10 @@ Install Mamba
 We provide our trained weights on the MFNet dataset and PST-900:
 
 ### MFNet (9 categories)
-| CFDHI-Net | VMamba-T | 61.5% | [checkpoint](https://drive.google.com/file/d/1N9UU9G5K8qxKsZOuEzSLiCGXC5XCaMaU/view?usp=drive_link) |
+| CFDHI-Net | VMamba-T | 61.5% | [checkpoint](https://pan.baidu.com/s/1TvX6T3QkFf2nNa3cUL_Ujg?pwd=8brs) |
 
 ### PST900 (5 categories)
-| CFDHI-Net | VMamba-T | 87.3% | [checkpoint](https://drive.google.com/file/d/1Qx_alwSmxj_8TqCO0RD6VQvhcwp-RQ-e/view?usp=drive_link) |
+| CFDHI-Net | VMamba-T | 87.3% | [checkpoint](https://pan.baidu.com/s/1ocG0-gyTJy3oS0dlDop93w?pwd=a4gc) |
 
 
 ## Acknowledgements

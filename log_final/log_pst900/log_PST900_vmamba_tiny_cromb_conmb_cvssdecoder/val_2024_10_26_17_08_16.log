@@ -1,0 +1,168 @@
+Model: /root/autodl-tmp/Sigma-main/log_final/log_pst900/log_PST900_sigma_tiny_cromb_conmb_cvssdecoder/checkpoint/epoch-5.pth
+1 Background	99.242%
+2 Extinguisher	53.468%
+3 Backpack	84.225%
+4 Hand-Drill	52.343%
+5 Survivor	58.857%
+----------     mean_IoU	69.627%	freq_IoU	98.500%	mean_pixel_acc	80.903%	pixel_acc	99.183%
+Model: /root/autodl-tmp/Sigma-main/log_final/log_pst900/log_PST900_sigma_tiny_cromb_conmb_cvssdecoder/checkpoint/epoch-10.pth
+1 Background	99.431%
+2 Extinguisher	75.941%
+3 Backpack	88.013%
+4 Hand-Drill	73.615%
+5 Survivor	66.801%
+----------     mean_IoU	80.760%	freq_IoU	98.907%	mean_pixel_acc	86.477%	pixel_acc	99.437%
+Model: /root/autodl-tmp/Sigma-main/log_final/log_pst900/log_PST900_sigma_tiny_cromb_conmb_cvssdecoder/checkpoint/epoch-15.pth
+1 Background	99.128%
+2 Extinguisher	18.972%
+3 Backpack	74.207%
+4 Hand-Drill	74.679%
+5 Survivor	40.033%
+----------     mean_IoU	61.404%	freq_IoU	98.080%	mean_pixel_acc	68.299%	pixel_acc	98.961%
+Model: /root/autodl-tmp/Sigma-main/log_final/log_pst900/log_PST900_sigma_tiny_cromb_conmb_cvssdecoder/checkpoint/epoch-20.pth
+1 Background	99.532%
+2 Extinguisher	65.642%
+3 Backpack	90.949%
+4 Hand-Drill	80.211%
+5 Survivor	79.738%
+----------     mean_IoU	83.215%	freq_IoU	99.131%	mean_pixel_acc	93.148%	pixel_acc	99.535%
+Model: /root/autodl-tmp/Sigma-main/log_final/log_pst900/log_PST900_sigma_tiny_cromb_conmb_cvssdecoder/checkpoint/epoch-25.pth
+1 Background	99.483%
+2 Extinguisher	70.036%
+3 Backpack	89.442%
+4 Hand-Drill	78.073%
+5 Survivor	72.211%
+----------     mean_IoU	81.849%	freq_IoU	99.014%	mean_pixel_acc	90.739%	pixel_acc	99.484%
+Model: /root/autodl-tmp/Sigma-main/log_final/log_pst900/log_PST900_sigma_tiny_cromb_conmb_cvssdecoder/checkpoint/epoch-30.pth
+1 Background	99.488%
+2 Extinguisher	73.261%
+3 Backpack	82.264%
+4 Hand-Drill	79.187%
+5 Survivor	73.971%
+----------     mean_IoU	81.634%	freq_IoU	98.920%	mean_pixel_acc	91.503%	pixel_acc	99.424%
+Model: /root/autodl-tmp/Sigma-main/log_final/log_pst900/log_PST900_sigma_tiny_cromb_conmb_cvssdecoder/checkpoint/epoch-35.pth
+1 Background	99.563%
+2 Extinguisher	71.352%
+3 Backpack	89.564%
+4 Hand-Drill	82.190%
+5 Survivor	82.342%
+----------     mean_IoU	85.002%	freq_IoU	99.172%	mean_pixel_acc	93.019%	pixel_acc	99.567%
+Model: /root/autodl-tmp/Sigma-main/log_final/log_pst900/log_PST900_sigma_tiny_cromb_conmb_cvssdecoder/checkpoint/epoch-40.pth
+1 Background	99.603%
+2 Extinguisher	75.975%
+3 Backpack	90.332%
+4 Hand-Drill	83.403%
+5 Survivor	82.411%
+----------     mean_IoU	86.345%	freq_IoU	99.239%	mean_pixel_acc	92.567%	pixel_acc	99.606%
+Model: /root/autodl-tmp/Sigma-main/log_final/log_pst900/log_PST900_sigma_tiny_cromb_conmb_cvssdecoder/checkpoint/epoch-45.pth
+1 Background	99.575%
+2 Extinguisher	76.161%
+3 Backpack	90.463%
+4 Hand-Drill	83.310%
+5 Survivor	78.970%
+----------     mean_IoU	85.696%	freq_IoU	99.192%	mean_pixel_acc	92.254%	pixel_acc	99.582%
+Model: /root/autodl-tmp/Sigma-main/log_final/log_pst900/log_PST900_sigma_tiny_cromb_conmb_cvssdecoder/checkpoint/epoch-50.pth
+1 Background	99.550%
+2 Extinguisher	57.765%
+3 Backpack	85.376%
+4 Hand-Drill	82.810%
+5 Survivor	83.553%
+----------     mean_IoU	81.810%	freq_IoU	99.067%	mean_pixel_acc	86.472%	pixel_acc	99.511%
+Model: /root/autodl-tmp/Sigma-main/log_final/log_pst900/log_PST900_sigma_tiny_cromb_conmb_cvssdecoder/checkpoint/epoch-55.pth
+1 Background	99.548%
+2 Extinguisher	75.191%
+3 Backpack	88.584%
+4 Hand-Drill	82.353%
+5 Survivor	79.659%
+----------     mean_IoU	85.067%	freq_IoU	99.134%	mean_pixel_acc	91.446%	pixel_acc	99.551%
+Model: /root/autodl-tmp/Sigma-main/log_final/log_pst900/log_PST900_sigma_tiny_cromb_conmb_cvssdecoder/checkpoint/epoch-60.pth
+1 Background	99.586%
+2 Extinguisher	75.459%
+3 Backpack	89.957%
+4 Hand-Drill	86.052%
+5 Survivor	81.161%
+----------     mean_IoU	86.443%	freq_IoU	99.214%	mean_pixel_acc	92.352%	pixel_acc	99.593%
+Model: /root/autodl-tmp/Sigma-main/log_final/log_pst900/log_PST900_sigma_tiny_cromb_conmb_cvssdecoder/checkpoint/epoch-65.pth
+1 Background	99.583%
+2 Extinguisher	78.596%
+3 Backpack	88.244%
+4 Hand-Drill	86.634%
+5 Survivor	83.186%
+----------     mean_IoU	87.249%	freq_IoU	99.204%	mean_pixel_acc	92.481%	pixel_acc	99.591%
+Model: /root/autodl-tmp/Sigma-main/log_final/log_pst900/log_PST900_sigma_tiny_cromb_conmb_cvssdecoder/checkpoint/epoch-70.pth
+1 Background	99.586%
+2 Extinguisher	77.763%
+3 Backpack	89.809%
+4 Hand-Drill	87.342%
+5 Survivor	79.541%
+----------     mean_IoU	86.808%	freq_IoU	99.210%	mean_pixel_acc	91.989%	pixel_acc	99.594%
+Model: /root/autodl-tmp/Sigma-main/log_final/log_pst900/log_PST900_sigma_tiny_cromb_conmb_cvssdecoder/checkpoint/epoch-75.pth
+1 Background	99.540%
+2 Extinguisher	73.919%
+3 Backpack	86.532%
+4 Hand-Drill	84.232%
+5 Survivor	82.280%
+----------     mean_IoU	85.301%	freq_IoU	99.110%	mean_pixel_acc	91.615%	pixel_acc	99.540%
+Model: /root/autodl-tmp/Sigma-main/log_final/log_pst900/log_PST900_sigma_tiny_cromb_conmb_cvssdecoder/checkpoint/epoch-80.pth
+1 Background	99.515%
+2 Extinguisher	61.843%
+3 Backpack	88.460%
+4 Hand-Drill	73.541%
+5 Survivor	73.788%
+----------     mean_IoU	79.429%	freq_IoU	99.007%	mean_pixel_acc	87.297%	pixel_acc	99.473%
+Model: /root/autodl-tmp/Sigma-main/log_final/log_pst900/log_PST900_sigma_tiny_cromb_conmb_cvssdecoder/checkpoint/epoch-85.pth
+1 Background	99.547%
+2 Extinguisher	73.538%
+3 Backpack	88.526%
+4 Hand-Drill	82.832%
+5 Survivor	81.534%
+----------     mean_IoU	85.195%	freq_IoU	99.141%	mean_pixel_acc	92.404%	pixel_acc	99.553%
+Model: /root/autodl-tmp/Sigma-main/log_final/log_pst900/log_PST900_sigma_tiny_cromb_conmb_cvssdecoder/checkpoint/epoch-90.pth
+1 Background	99.549%
+2 Extinguisher	76.002%
+3 Backpack	88.074%
+4 Hand-Drill	84.236%
+5 Survivor	80.574%
+----------     mean_IoU	85.687%	freq_IoU	99.139%	mean_pixel_acc	91.204%	pixel_acc	99.556%
+Model: /root/autodl-tmp/Sigma-main/log_final/log_pst900/log_PST900_sigma_tiny_cromb_conmb_cvssdecoder/checkpoint/epoch-95.pth
+1 Background	99.438%
+2 Extinguisher	77.393%
+3 Backpack	86.912%
+4 Hand-Drill	83.526%
+5 Survivor	66.204%
+----------     mean_IoU	82.694%	freq_IoU	98.922%	mean_pixel_acc	87.640%	pixel_acc	99.447%
+Model: /root/autodl-tmp/Sigma-main/log_final/log_pst900/log_PST900_sigma_tiny_cromb_conmb_cvssdecoder/checkpoint/epoch-100.pth
+1 Background	99.511%
+2 Extinguisher	75.941%
+3 Backpack	86.027%
+4 Hand-Drill	84.943%
+5 Survivor	79.011%
+----------     mean_IoU	85.087%	freq_IoU	99.060%	mean_pixel_acc	90.985%	pixel_acc	99.515%
+Model: /root/autodl-tmp/Sigma-main/log_final/log_pst900/log_PST900_sigma_tiny_cromb_conmb_cvssdecoder/checkpoint/epoch-105.pth
+1 Background	99.583%
+2 Extinguisher	74.594%
+3 Backpack	90.050%
+4 Hand-Drill	85.143%
+5 Survivor	77.966%
+----------     mean_IoU	85.467%	freq_IoU	99.188%	mean_pixel_acc	90.910%	pixel_acc	99.580%
+Model: /root/autodl-tmp/Sigma-main/log_final/log_pst900/log_PST900_sigma_tiny_cromb_conmb_cvssdecoder/checkpoint/epoch-110.pth
+1 Background	99.562%
+2 Extinguisher	73.036%
+3 Backpack	90.563%
+4 Hand-Drill	77.256%
+5 Survivor	81.861%
+----------     mean_IoU	84.456%	freq_IoU	99.176%	mean_pixel_acc	93.862%	pixel_acc	99.566%
+Model: /root/autodl-tmp/Sigma-main/log_final/log_pst900/log_PST900_sigma_tiny_cromb_conmb_cvssdecoder/checkpoint/epoch-115.pth
+1 Background	99.585%
+2 Extinguisher	72.766%
+3 Backpack	90.462%
+4 Hand-Drill	84.177%
+5 Survivor	82.032%
+----------     mean_IoU	85.804%	freq_IoU	99.215%	mean_pixel_acc	93.725%	pixel_acc	99.589%
+Model: /root/autodl-tmp/Sigma-main/log_final/log_pst900/log_PST900_sigma_tiny_cromb_conmb_cvssdecoder/checkpoint/epoch-120.pth
+1 Background	99.548%
+2 Extinguisher	78.133%
+3 Backpack	87.798%
+4 Hand-Drill	85.219%
+5 Survivor	79.453%
+----------     mean_IoU	86.030%	freq_IoU	99.134%	mean_pixel_acc	91.616%	pixel_acc	99.554%

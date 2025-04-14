@@ -8,13 +8,13 @@
 </div>
 
 
-## Introduction
+## 1.Introduction
 
 This repository contains the code for our paper `CFDHI-Net: Correlation-driven Feature Decoupling and Hierarchical Integration Network for RGB-Thermal Semantic Segmentation`
 
 ![](figs/overall.png)
 
-## Environment
+## 2.Environment
 
 We deploy our code with `PyTorch 2.0.0 + CUDA 11.8`.
 
@@ -23,7 +23,7 @@ Install Mamba
   cd models/encoders/selective_scan && pip install . && cd ../../..
  ```
 
-## Setup
+## 3.Setup
 
 ### Datasets
 
@@ -33,7 +33,7 @@ Install Mamba
     - [RGB-Depth NYU Depth V2](https://cs.nyu.edu/~silberman/datasets/nyu_depth_v2.html)
 
 
-## Usage
+## 4.Usage
 
 ### Training
 1. You can download the pretrained VMamba weights:
@@ -78,7 +78,7 @@ Install Mamba
 
 2. Results will be saved in `log_final` folder.
 
-## 📈Results
+## 5.Results
 
 We provide our trained weights on the MFNet dataset and PST-900:
 

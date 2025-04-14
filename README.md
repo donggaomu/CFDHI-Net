@@ -12,7 +12,7 @@
 
 This repository contains the code for our paper `CFDHI-Net: Correlation-driven Feature Decoupling and Hierarchical Integration Network for RGB-Thermal Semantic Segmentation`
 
-![](figs/sigma.png)
+![](figs/overall.png)
 
 ## 💡Environment
 

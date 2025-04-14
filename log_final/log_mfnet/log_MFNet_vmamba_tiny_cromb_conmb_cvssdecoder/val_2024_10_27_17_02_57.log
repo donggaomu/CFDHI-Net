@@ -1,0 +1,11 @@
+Model: /root/autodl-tmp/Sigma-main/log_final/log_mfnet/log_MFNet_sigma_tiny_cromb_conmb_cvssdecoder/checkpoint/epoch-278.pth
+1 unlabeled	98.427%
+2 car   	91.033%
+3 person	75.878%
+4 bike  	65.968%
+5 curve 	49.541%
+6 car stop	48.453%
+7 guardrail	13.024%
+8 color cone	53.556%
+9 bump  	58.177%
+----------     mean_IoU	61.562%	freq_IoU	97.042%	mean_pixel_acc	70.742%	pixel_acc	98.397%

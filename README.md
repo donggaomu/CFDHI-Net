@@ -19,9 +19,9 @@ This repository contains the code for our paper `CFDHI-Net: Correlation-driven F
 We deploy our code with `PyTorch 2.0.0 + CUDA 11.8`.
 
 Install Mamba
-    ```shell
-    cd models/encoders/selective_scan && pip install . && cd ../../..
-    ```
+ ```shell
+  cd models/encoders/selective_scan && pip install . && cd ../../..
+ ```
 
 ## Setup
 

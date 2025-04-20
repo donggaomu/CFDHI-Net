@@ -91,6 +91,6 @@ We provide our trained weights on the MFNet dataset and PST-900:
 
 ## Acknowledgements
 
-Our codes are based on [Sigma](https://github.com/zifuwan/Sigma) and [CMX]([https://github.com/zifuwan/Sigma](https://github.com/huaaaliu/RGBX_Semantic_Segmentation). The Mamba codes are adapted from [Mamba](https://github.com/state-spaces/mamba) and [VMamba](https://github.com/MzeroMiko/VMamba). We appreciate the outstanding contributions of these methods.
+Our codes are based on [Sigma](https://github.com/zifuwan/Sigma) and [CMX](https://github.com/huaaaliu/RGBX_Semantic_Segmentation). The Mamba codes are adapted from [Mamba](https://github.com/state-spaces/mamba) and [VMamba](https://github.com/MzeroMiko/VMamba). We appreciate the outstanding contributions of these methods.
 
 

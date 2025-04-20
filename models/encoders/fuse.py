@@ -90,9 +90,9 @@ class ChannelEmbed(nn.Module):
         out = self.norm(residual + x)
         return out
 
-class Global_fuse(nn.Module):
+class Mcsff(nn.Module):
     def __init__(self, dim, reduction=4):
-        super(Global_fuse, self).__init__()
+        super(Mcsff, self).__init__()
         self.dim = dim
         self.avg_pool = nn.AdaptiveAvgPool2d(1)
         self.max_pool = nn.AdaptiveMaxPool2d(1)
@@ -143,9 +143,9 @@ class Global_fuse(nn.Module):
         # out = self.fuse(fuse, H, W)
         return fuse
 
-class Mds(nn.Module):
+class Mdff(nn.Module):
     def __init__(self, inc, ratio=4):
-        super(Mds, self).__init__()
+        super(Mdff, self).__init__()
         self.fc_g = nn.Sequential(*[
             nn.Linear(inc, inc // ratio, False),
             nn.ReLU(),
@@ -188,8 +188,8 @@ class Fusion(nn.Module):
     def __init__(self, dim):
         super(Fusion, self).__init__()
         self.decouple = Decouple(dim)
-        self.i_fuse = Global_fuse(dim)
-        self.c_fuse = Mds(dim)
+        self.i_fuse = Mcsff(dim)
+        self.c_fuse = Mdff(dim)
         self.fuse = ChannelEmbed(2*dim, dim)
     
     def forward(self, x1, x2):

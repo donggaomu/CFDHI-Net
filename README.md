@@ -27,7 +27,7 @@ Install Mamba
 
 ### Datasets
 
- We use four datasets, including both RGB-Thermal and RGB-Depth datasets:
+ We use three datasets, including both RGB-Thermal and RGB-Depth datasets:
     - [RGB-Thermal MFNet](https://github.com/haqishen/MFNet-pytorch)
     - [RGB-Thermal PST900](https://github.com/ShreyasSkandanS/pst900_thermal_rgb)
     - [RGB-Depth NYU Depth V2](https://cs.nyu.edu/~silberman/datasets/nyu_depth_v2.html)
@@ -91,6 +91,6 @@ We provide our trained weights on the MFNet dataset and PST-900:
 
 ## Acknowledgements
 
-Our codes are based on [Sigma](https://github.com/zifuwan/Sigma). The Mamba codes are adapted from [Mamba](https://github.com/state-spaces/mamba) and [VMamba](https://github.com/MzeroMiko/VMamba).
+Our codes are based on [Sigma](https://github.com/zifuwan/Sigma). The Mamba codes are adapted from [Mamba](https://github.com/state-spaces/mamba) and [VMamba](https://github.com/MzeroMiko/VMamba). We appreciate the outstanding contributions of these methods.
 
 

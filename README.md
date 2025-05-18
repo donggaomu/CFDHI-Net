@@ -73,7 +73,7 @@ Install Mamba
     CUDA_VISIBLE_DEVICES="0,1,2,3,4,5,6,7" python eval.py -d="0" -n "dataset_name" -e="epoch_number" -p="visualize_savedir"
     ```
 
-    Here, `dataset_name=mfnet/pst/nyu/sun`, referring to the four datasets.\
+    Here, `dataset_name=mfnet/pst/nyu`, referring to the three datasets.\
     `epoch_number` refers to a number standing for the epoch number you want to evaluate with.
 
 2. Results will be saved in `log_final` folder.

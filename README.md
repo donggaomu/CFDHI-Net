@@ -88,6 +88,23 @@ We provide our trained weights on the MFNet dataset and PST-900:
 ### PST900 (5 categories)
 | CFDHI-Net | VMamba-T | 87.3% | [checkpoint](https://pan.baidu.com/s/1ocG0-gyTJy3oS0dlDop93w?pwd=a4gc) |
 
+## 📌 Citation
+
+If you find this code useful, please consider citing our work:
+
+```bibtex
+@ARTICLE{11059996,
+  author={Chen, Haojie and Wang, Zhuo and Qin, Hongde and Mu, Xiaokai},
+  journal={IEEE Transactions on Intelligent Transportation Systems}, 
+  title={CFDHI-Net: Correlation-Driven Feature Decoupling and Hierarchical Integration Network for RGB-Thermal Semantic Segmentation}, 
+  year={2025},
+  volume={},
+  number={},
+  pages={1-12},
+  keywords={Feature extraction;Semantic segmentation;Correlation;Transformers;Accuracy;Decoding;Convolution;Computational complexity;Intelligent transportation systems;Convolutional neural networks;RGB-T semantic segmentation;correlation-driven feature decoupling;hierarchical feature fusion;dual-branch VMamba backbone},
+  doi={10.1109/TITS.2025.3581609}}
+```
+
 
 ## Acknowledgements
 

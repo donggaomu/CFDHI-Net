@@ -98,9 +98,9 @@ If you find this code useful, please consider citing our work:
   journal={IEEE Transactions on Intelligent Transportation Systems}, 
   title={CFDHI-Net: Correlation-Driven Feature Decoupling and Hierarchical Integration Network for RGB-Thermal Semantic Segmentation}, 
   year={2025},
-  volume={},
-  number={},
-  pages={1-12},
+  volume={26},
+  number={10},
+  pages={17173-17184},
   keywords={Feature extraction;Semantic segmentation;Correlation;Transformers;Accuracy;Decoding;Convolution;Computational complexity;Intelligent transportation systems;Convolutional neural networks;RGB-T semantic segmentation;correlation-driven feature decoupling;hierarchical feature fusion;dual-branch VMamba backbone},
   doi={10.1109/TITS.2025.3581609}}
 ```
